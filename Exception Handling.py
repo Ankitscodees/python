@@ -6,4 +6,4 @@ try:
 except:
     print(" can't divide by zero:")
 else:
-    print("Try blocked is succesfully executed:")
+    print("Try blocked is sucessfully executed:")
