@@ -1,0 +1,6 @@
+import qrcode
+
+data = "https://example.com"
+qr = qrcode.make(data)
+qr.save("qrcode.png")
+print("QR Code saved as 'qrcode.png'")
